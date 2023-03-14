@@ -1,0 +1,7 @@
+<keymap>
+    <global>
+        <mouse>
+            <rightclick>back</rightclick>
+        </mouse>
+    </global>
+</keymap>
